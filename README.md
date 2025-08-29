@@ -1,4 +1,4 @@
-#GitHub Finder
+# GitHub Finder
 
 Olá! 👋  
 Este é o **GitHub Finder**, uma aplicação em **React** que permite buscar usuários do GitHub e explorar seus repositórios.  
@@ -6,7 +6,7 @@ O projeto foi desenvolvido para praticar **hooks**, consumo de **API**, manipula
 
 ---
 
-##Funcionalidades
+## Funcionalidades
 
 - 🔍 Buscar usuários pelo **username** do GitHub  
 - 🖼 Exibir informações do perfil: foto, nome, bio  
@@ -15,7 +15,7 @@ O projeto foi desenvolvido para praticar **hooks**, consumo de **API**, manipula
 
 ---
 
-##Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **React**  
 - **JavaScript (ES6+)**  
@@ -25,7 +25,7 @@ O projeto foi desenvolvido para praticar **hooks**, consumo de **API**, manipula
 
 ---
 
-##Como executar o projeto localmente
+## Como executar o projeto localmente
 
 1. Clone o repositório:
 ```bash
@@ -43,10 +43,6 @@ ou
 npm install
 
 O projeto será aberto em http://localhost:3000.
-
-Preview
-
-<img width="1187" height="569" alt="image" src="https://github.com/user-attachments/assets/53c41b12-93d8-4463-b4fa-d110a3841972" />
 
 Sobre mim
 
